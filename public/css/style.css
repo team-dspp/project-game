@@ -1,0 +1,30 @@
+body {
+	margin: 0 auto;
+	background-image: url("/images/ApocalipseBackground2.jpg");
+	background-size: 100% 105%;
+}
+
+#gameTitle {
+/*	margin-top: 0.5%;*/
+	padding: 1%;
+	color: #CB9874;
+	font-size: 30px;
+	font-family: Impact;
+	text-align: center;
+}
+
+#gameWindow {
+	margin: 0 auto;
+	width: 70%;
+	height: 90%;
+	background: white;
+}
+
+#gameCanvas {
+	width: 100%;
+	height: 100%;
+	background: black;
+	border: 5px solid #CB9874;
+}
+
+/*77543B*/
