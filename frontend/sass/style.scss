@@ -1,0 +1,10 @@
+$primaryColor:  #033;
+$fontStack:    Helvetica, sans-serif;
+
+body {
+  font: 100% $fontStack;
+  background-color:  invert($primaryColor);
+  color: $primaryColor;
+  margin:0;
+  padding:0;
+}
